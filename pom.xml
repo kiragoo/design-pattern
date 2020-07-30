@@ -11,6 +11,7 @@
     <modules>
         <module>design-cp01-demo01</module>
         <module>design-cp01-demo02</module>
+        <module>design-cp01-demo03</module>
     </modules>
 
     <dependencies>
