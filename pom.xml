@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>design-cp01-demo01</module>
+        <module>design-cp01-demo02</module>
     </modules>
 
     <dependencies>
